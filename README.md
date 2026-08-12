@@ -1,4 +1,9 @@
 # Cueist AI 🚀
+[![Manifest V3](https://img.shields.io/badge/Chrome-Manifest_V3-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/mv3/intro/)
+[![NVIDIA NIM](https://img.shields.io/badge/Powered_By-NVIDIA_NIM-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://build.nvidia.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-8b5cf6?style=for-the-badge)](LICENSE)
+[![Backend: Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
+[![GitHub Stars](https://img.shields.io/github/stars/Prometheusze/cueist-ai?style=for-the-badge&color=eab308)](https://github.com/Prometheusze/cueist-ai/stargazers)
 
 > **Empower your prompt engineering workflow directly from your browser.**
 
